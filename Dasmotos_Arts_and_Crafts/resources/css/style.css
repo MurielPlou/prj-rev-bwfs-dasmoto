@@ -1,0 +1,61 @@
+h1 {
+font-family: Helvetica;
+font-size: 100px;
+font-weight: bold;
+color: khaki;
+text-align: center;
+}
+
+h2 {
+font-family: Helvetica;
+font-size: 32px;
+font-weight: bold;
+color: white;
+text-align: left;
+}
+
+h4 {
+font-family: Helvetica;
+font-weight: bold;
+color: blue;
+}
+
+p {
+font-family: Helvetica;
+}
+
+
+#homepage-background {
+  background-image: url("/Users/murielpierre-louis/Documents/Projects/Dasmotos_Arts_and_Crafts/resources/images/DiamondWallPattern.jpg");
+  opacity: 0.80;
+}
+
+#homepage-title {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+}
+
+#homepage-nav {
+  font-family: Helvetica;
+  font-size: 20px;
+  text-align: center;
+}
+
+
+#main-banner {
+  background-image: url("/Users/murielpierre-louis/Documents/Projects/Dasmotos_Arts_and_Crafts/resources/images/DiamondWallPattern.jpg");
+}
+
+#brush-banner {
+  background-color: mediumspringgreen;
+}
+
+#frame-banner {
+  background-color: lightcoral;
+}
+
+#paint-banner {
+  background-color: skyblue;
+}
